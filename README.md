@@ -4,7 +4,7 @@ In this project, we used MIMIC III Clinical Dataset and compare multiple classif
 
 ## Machine Learning Models
 - XGBoot * (Best)
-- logistic regression
+- Logistic Regression
 - Random Forest
 
 ## Evaluation

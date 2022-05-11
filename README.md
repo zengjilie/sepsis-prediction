@@ -3,7 +3,7 @@ We want to predict a patient's probabilty of getting sepsis based on variablle a
 In this project, we used MIMIC III Clinical Dataset and compare multiple classification models on their performanceof classifing sepsis/non-sepsis
 
 ## Machine Learning Models
-- XGBoot * Best
+- XGBoot * (Best)
 - logistic regression
 - Random Forest
 

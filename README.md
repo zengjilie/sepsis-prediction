@@ -1,19 +1,23 @@
-# Sepsis Prediction Tool
-    
-This project aims to create a tool to help doctors predict the probability of death 30-days death rate of patients with sepsis
+# Sepsis Prediction
+We want to predict a patient's probabilty of getting sepsis based on variablle attributes
+In this project, we used MIMIC III Clinical Dataset and compare multiple classification models on their performanceof classifing sepsis/non-sepsis
 
-## Methodology
-- Machine Learning Mode: XGBoot/logistic regression/...
-- AUC/ROC 
-- Feature selection
+## Machine Learning Models
+- XGBoot * Best
+- logistic regression
+- Random Forest
+
+## Evaluation
+- Confusion Matrix
+- AUC Score
+- ROC Curve
 
 ## Dataset
 - MIMIC III
 
 ## Prediction
-30-day sepsis mortality
+- Independent variable: admission_location, insurance, religion, maritial_status, ethnicity, los, gender, age
+- Dependent variable: is_sepsis(icd9_code)
 
-## Tool(GUI)
-- ReactJS
 
 

@@ -1,6 +1,6 @@
 # Sepsis Prediction
-We want to predict a patient's probabilty of getting sepsis based on variablle attributes
-In this project, we used MIMIC III Clinical Dataset and compare multiple classification models on their performanceof classifing sepsis/non-sepsis
+Sepsis is the body’s extreme response to an infection. It is a life-threatening medical emergency.
+In this project, we want to build a machine learning model that predicts the probabilty of getting sepsis based on the patients' medical information. 
 
 ## Machine Learning Models
 - XGBoot * (Best)

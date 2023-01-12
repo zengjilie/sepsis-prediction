@@ -1,7 +1,7 @@
 # Sepsis Prediction
 Sepsis is the body’s extreme response to an infection. It is a life-threatening medical emergency.
 
-In this project, we want to build a machine learning model that predicts the probabilty of getting sepsis based on the patients' medical information. 
+In this project, we want to build a machine learning model that predicts the probability of getting sepsis based on the patients' medical information. 
 
 ## Machine Learning Models
 - XGBoot * (Best)
